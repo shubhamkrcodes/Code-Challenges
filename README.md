@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1801-average-time-of-process-per-machine) |
 ## String
 |  |
 | ------- |
