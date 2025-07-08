@@ -9,5 +9,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/3617-find-the-original-typed-string-i) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
