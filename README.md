@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
