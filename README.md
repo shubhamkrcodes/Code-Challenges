@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1894-merge-strings-alternately) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -29,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
+| [1894-merge-strings-alternately](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
