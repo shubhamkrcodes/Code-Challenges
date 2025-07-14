@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
