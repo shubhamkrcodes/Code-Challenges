@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
