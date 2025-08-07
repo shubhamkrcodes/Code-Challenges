@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1603-running-sum-of-1d-array) |
@@ -38,13 +39,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1603-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
