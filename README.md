@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1894-merge-strings-alternately) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/3617-find-the-original-typed-string-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
