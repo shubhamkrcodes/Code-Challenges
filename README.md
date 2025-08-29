@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
