@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1603-running-sum-of-1d-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1917-maximum-average-pass-ratio) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0605-can-place-flowers) |
+| [1917-maximum-average-pass-ratio](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1917-maximum-average-pass-ratio) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0342-power-of-four) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
