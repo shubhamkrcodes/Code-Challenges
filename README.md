@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/0620-not-boring-movies) |
 | [1415-students-and-examinations](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shubhamkrcodes/Code-Challenges/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
